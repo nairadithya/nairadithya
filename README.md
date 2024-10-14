@@ -2,9 +2,11 @@
 
 🎓 I'm a student pursuing a B.Tech in Artificial Intelligence And Data Science, in Amrita School Of Engineering, Bangalore.
 
-🌱 I'm currently working on trying to build my general programming proficiency beyond just the basic classroom setting.
+🌱 I'm currently trying to build my general programming proficiency beyond just the basic classroom setting.
 
-⚡ I love electronic music, fantasy novels and the catpppuccin colour scheme.
+⚡ I love electronic music, fantasy novels and the catppuccin colour scheme.
+
+📃 LaTeX is superior to Word.
 <!--
 **nairadithya/nairadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
