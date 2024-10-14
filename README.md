@@ -6,7 +6,7 @@
 
 ⚡ I love electronic music, fantasy novels and the catppuccin colour scheme.
 
-📃 LaTeX is superior to Word.
+📃 Org-Mode is superior to Markdown.
 <!--
 **nairadithya/nairadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
