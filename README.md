@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2 align="center">
+Hi there 👋
+</h2>
 
 🎓 I'm a student pursuing a B.Tech in Artificial Intelligence And Data Science, in Amrita School Of Engineering, Bangalore.
 
