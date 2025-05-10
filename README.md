@@ -1,9 +1,8 @@
 <h2 align="center">
 Hi there 👋
 </h2>
-I am Adithya. I'm a student at Amrita School Of Engineering, Bangalore. I am currently pursuing a B. Tech in Artificial Intelligence And Data Science. 
 
-I'm interested in artificial intelligence, software, science and art.
+I am Adithya. I'm a student at Amrita School Of Engineering, Bangalore. I am currently pursuing a B. Tech in AI And Data Science.  
 
 I am a believer in the [IndieWeb](https://indieweb.org), and using technology to express yourself.
 
